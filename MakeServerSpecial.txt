@@ -1,0 +1,7 @@
+serve -s out -p "number of port"
+
+example:
+    serve -s out -p 10000
+    serve -s out -p 8000
+
+

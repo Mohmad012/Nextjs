@@ -1,0 +1,17 @@
+
+.listLink{
+	list-style: none;
+	padding: 10px;
+	background-color: red;
+	color: #fff;
+}
+
+.listLinkItem{
+	font-size: 1.25rem;
+	font-weight: bold;
+}
+
+.link{
+	text-decoration: none;
+
+}
